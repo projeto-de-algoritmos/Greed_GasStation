@@ -29,6 +29,10 @@ Na figura 2, encontra-se a submissão aceita do exercício Container With Most W
 <img src="assets/ContainerWithMostWater.png">
 <p align="center">Figura 2 - Container With Most Water.</p>
 
+![Na figura 3, encontra-se a submissão aceita do exercício Ciel and Dancing](./assets/CielandDancing.png)
+
+![Na figura 4, encontra-se a submissão aceita do Impartial Gift](./assets/CielandDancing.png)
+
 
 ## Instalação 
 
