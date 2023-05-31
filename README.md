@@ -12,7 +12,7 @@
 ## Sobre 
 A dupla decidiu realizar 2 exercícios do [LeetCode](https://leetcode.com/problemset/all/), 1 exercício do [codeforces](https://codeforces.com/) e 1 do [atCoder](https://atcoder.jp/) que são sites com exercícios de programação com juízes online, para praticar o conteúdo de **Algoritmos Ambiciosos**.
 
-Os enunciados dos 2 exercícios podem ser encontrados na listagem abaixo:
+Os enunciados dos 4 exercícios podem ser encontrados na listagem abaixo:
 
 - [Gas Station](https://leetcode.com/problems/gas-station/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
@@ -33,7 +33,7 @@ Na figura 3, encontra-se a submissão aceita do exercício Ciel and Dancing:
 ![Na figura 3, encontra-se a submissão aceita do exercício Ciel and Dancing](./assets/CielandDancing.png)
 <p align="center">Figura 3 - Ciel and Dancing.</p>
 
-Na figura 3, encontra-se a submissão aceita do exercício Impartial Gift:
+Na figura 4, encontra-se a submissão aceita do exercício Impartial Gift:
 ![Na figura 4, encontra-se a submissão aceita do Impartial Gift](./assets/ImpartialGift.png)
 <p align="center">Figura 4 - Impartial Gift.</p>
 
@@ -94,7 +94,7 @@ Pronto! O código está rodando e os exercícios podem ser testados.
 ## Vídeo
 
 O vídeo explicando o algoritmo e o funcionamento dele, pode ser encontrado no link a seguir:
-- [Vídeo]()
+- [Vídeo](https://youtu.be/0bJPp1n4TgY)
 
 
 
