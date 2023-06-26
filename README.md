@@ -94,7 +94,7 @@ Pronto! O código está rodando e os exercícios podem ser testados.
 ## Vídeo
 
 O vídeo explicando o algoritmo e o funcionamento dele, pode ser encontrado no link a seguir:
-- [Vídeo](https://youtu.be/0bJPp1n4TgY)
+- [Vídeo](assets/videoGreed.mp4)
 
 
 
